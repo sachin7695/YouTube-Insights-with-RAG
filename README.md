@@ -21,7 +21,7 @@ PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]
 PINECONE_API_ENV = [ENTER YOUR PINECONE API ENVIRONMENT HERE]
 ```
 4. Libraries used openai 
-langchain
+```langchain
 langchain-openai
 langchain_pinecone
 langchain[docarray]
@@ -34,4 +34,5 @@ pinecone-client
 scikit-learn
 ruff
 git+https://github.com/openai/whisper.git
+```
    
