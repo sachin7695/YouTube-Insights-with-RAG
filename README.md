@@ -1,6 +1,6 @@
 # Building a RAG application for YouTube insights 
 
-repository showcasing a user-friendly implementation of a Retrieval-Augmented Generation (RAG) application using Pinecone and OpenAI's API. Empower your projects with advanced natural language processing capabilities by easily integrating this solution to extract insights from YouTube videos through simple Q&A interactions.
+Repository showcasing a user-friendly implementation of a Retrieval-Augmented Generation (RAG) application using Pinecone and OpenAI's API. Empower your projects with advanced natural language processing capabilities by easily integrating this solution to extract insights from YouTube videos through simple Q&A interactions.
 ## Setup
 
 1. Create a virtual environment and install the required packages:
