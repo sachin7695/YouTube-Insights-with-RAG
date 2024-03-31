@@ -20,3 +20,18 @@ OPENAI_API_KEY = [ENTER YOUR OPENAI API KEY HERE]
 PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]
 PINECONE_API_ENV = [ENTER YOUR PINECONE API ENVIRONMENT HERE]
 ```
+4. Libraries used openai 
+langchain
+langchain-openai
+langchain_pinecone
+langchain[docarray]
+docarray
+pydantic==1.10.8
+pytube 
+python-dotenv
+tiktoken 
+pinecone-client 
+scikit-learn
+ruff
+git+https://github.com/openai/whisper.git
+   
